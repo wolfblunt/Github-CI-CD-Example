@@ -25,7 +25,7 @@ In this project I created a simple flask application and in this repository I al
 	>deactivate
 
 ### Project Snaps
-![alt text](https://github.com/wolfblunt/Github-CI-CD-Example/blob/master/Images/GreenTick.png)
+![alt text](https://github.com/wolfblunt/Github-CI-CD-Example/blob/master/Images/Action.png)
 
 ![alt text](https://github.com/wolfblunt/Github-CI-CD-Example/blob/master/Images/GreenTick.png)
 
