@@ -6,7 +6,7 @@ GitHub Actions now makes it easier to automate how you build, test, and deploy y
 
 ### Project Description
 In this project I created a simple flask application and in this repository I also added some github actions. 
-1) Python Application Action - Runs python application in a ubuntu environment by installing all dependencies from pythonapp.yml file. If everything runs  successfully it shows grren tick.
+1) <b>Python Application Action </b>- Runs python application in a ubuntu environment by installing all dependencies from pythonapp.yml file. If everything runs  successfully it shows grren tick.
 2) Deployment to Heroku - Whenever I push something or change something in my repository then github actions automatically works and push my code to github.
 
 ### Python VirtualEnvironment Command
